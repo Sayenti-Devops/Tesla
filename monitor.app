@@ -2,3 +2,5 @@ prometheus
 grafana
 newrelic
 solarwind
+appDynamics
+Dynatrace
